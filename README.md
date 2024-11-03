@@ -57,7 +57,7 @@ Assurez-vous d'avoir installé les dépendances nécessaires avant de commencer.
 `cd taskmanager-frontend`
 4. Installez les dépendances :
 `  npm install (pour le front) `
-`  activer l'environnement 
+`  activer l'environnement pour le back `
 
 
 ## 6. Utilisation 
