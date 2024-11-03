@@ -62,10 +62,10 @@ Assurez-vous d'avoir installé les dépendances nécessaires avant de commencer.
 
 ## 6. Utilisation 
 
-`npm start  (pour le front)`
-python manage.py runserver (pour le back) `
-Pour démarrer l'application, exécutez la commande suivante :
 
+Pour démarrer l'application, exécutez la commande suivante :
+`npm start  (pour le front)`
+`python manage.py runserver (pour le back) `
 Accédez à l'application via `http://localhost:3000`.
 
 ## 7. Points de Terminaison de l'API
