@@ -33,7 +33,7 @@ Cette application de gestion des tâches est un outil web conçu pour aider les 
   - React Toastify (pour les notifications)
 
 - **Backend** : 
-  - (Spécifiez votre technologie backend, par exemple Django, Node.js, etc.)
+  - Django
   - API RESTful
 
 ## 4. Configuration du Projet
@@ -49,15 +49,17 @@ Assurez-vous d'avoir installé les dépendances nécessaires avant de commencer.
 `git clone https://github.com/RACHADDOUlFIKAR/Tasks-Manager-front`
   
 3. Accédez au répertoire du projet :
-`cd`
-
+`cd TaskManagerBack`
+`cd taskmanager-frontend`
 4. Installez les dépendances :
-`  npm install`
+`  npm install (pour le front) `
+`  activer l'environnement 
 
 
 ## 5. Utilisation 
 
-`npm start`
+`npm start  (pour le front)`
+python manage.py runserver (pour le back) `
 Pour démarrer l'application, exécutez la commande suivante :
 
 Accédez à l'application via `http://localhost:3000`.
