@@ -74,6 +74,7 @@ Accédez à l'application via `http://localhost:3000`.
 - **POST** `/api/taches` : Créer une nouvelle tâche.
 - **PUT** `/api/taches/:id` : Mettre à jour une tâche existante.
 - **DELETE** `/api/taches/:id` : Supprimer une tâche.
+![Capture d'écran 2024-11-03 181225](https://github.com/user-attachments/assets/d18fd8ab-357f-42e6-a53f-58ae608a1ae4)
 
 ## 8. Aperçu des Composants
 
